@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">Cyber Security and Forensic Computing Graduate</h3>
+<h3 align="center">L1 SOC Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanoleary26&label=Profile%20views&color=0e75b6&style=flat" alt="ryanoleary26" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ryanooleary" target="blank"><img src="https://img.shields.io/twitter/follow/ryanooleary?logo=twitter&style=for-the-badge" alt="ryanooleary" /></a> </p>
 
-- 🔭 I’m currently working on [Hone Security Scanner](https://github.com/ryanoleary26/home-security-scanner)
+- 🔭 I’m currently working on [Home Security Scanner](https://github.com/ryanoleary26/home-security-scanner)
 
 - 🌱 I’m currently learning **JavaScript, Python, RESTful APIs**
 
