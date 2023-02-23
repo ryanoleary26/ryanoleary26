@@ -5,11 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Python, RESTful APIs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ryanoleary26/](https://github.com/ryanoleary26/)
-
 - 📫 How to reach me **hello@ryanoleary.co.uk**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/ryanoleary17/](https://www.linkedin.com/in/ryanoleary17/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
