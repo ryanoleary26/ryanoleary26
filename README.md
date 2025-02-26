@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">L2 SOC Analyst</h3>
+<h3 align="center">Incident Response & Threat Hunting Analyst</h3>
 
 <p>Working on a few small projects, certifications, and generally following malware news and topics.</p>
 
