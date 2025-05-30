@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">Incident Response & Threat Hunting Analyst</h3>
+<h3 align="center">Incident Response Consultant</h3>
 
-<p>Working on a few small projects, certifications, and generally following malware news and topics.</p>
+<p>Working on a few small projects and generally following malware news and topics.</p>
 
-- 🌱 I’m currently learning **JavaScript, Python, Arduino**
+- 🌱 I’m actively developing the SOC Multitool V2 browser extension and picking up random Arduino projects.
 
 - 📫 How to reach me **hello@ryanoleary.co.uk**
 
